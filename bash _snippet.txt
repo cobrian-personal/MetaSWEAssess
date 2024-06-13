@@ -1,0 +1,1 @@
+find . -type f -name "*.txt" -newerct '1 month ago' -maxdepth 1 -print
